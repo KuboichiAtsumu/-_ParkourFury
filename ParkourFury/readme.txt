@@ -5,7 +5,7 @@
 //
 //==============================================================================
 
-GitURL
+GitHub URL
 https://github.com/KuboichiAtsumu/CyberCreators_2026_AtsumuKuboichi.git
 
 ◆このディレクトリについて◆
