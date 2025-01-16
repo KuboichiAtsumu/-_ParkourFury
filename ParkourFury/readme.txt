@@ -6,7 +6,7 @@
 //==============================================================================
 
 GitURL
-https://github.com/KuboichiAtsumu/ParkourFury_for_job_search.git
+https://github.com/KuboichiAtsumu/CyberCreators_2026_AtsumuKuboichi.git
 
 ◆このディレクトリについて◆
 ディレクトリ構成図は以下のようになっています。
